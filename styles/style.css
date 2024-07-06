@@ -73,6 +73,7 @@ html {
 
     .feat_description {
         font-size: 1.8rem;
+        margin: 25px 100px;
     }
 
     .dev_container h3 {
@@ -133,6 +134,7 @@ html {
 
     .feat_description {
         font-size: 1.2rem;
+        margin: 25px 100px;
     }
 
     .dev_container h3 {
@@ -190,6 +192,7 @@ html {
     }
     .feat_description {
         font-size: 1rem;
+        margin: 25px 100px;
     }
 
     .dev_container h3 {
@@ -251,6 +254,7 @@ html {
     }
     .feat_description {
         font-size: 0.8rem;
+        margin: 25px 50px;
     }
 
     .dev_container h3 {
@@ -306,6 +310,7 @@ html {
     .feat_description {
         font-size: 1rem;
         font-weight: 600;
+        margin: 25px 50px;
     }
     .dev_container h3 {
         font-size: 1.8rem;
@@ -360,6 +365,7 @@ html {
     .feat_description {
         font-size: 1rem;
         font-weight: 600;
+        margin: 25px 25px;
     }
     .dev_container h3 {
         font-size: 1.8rem;
