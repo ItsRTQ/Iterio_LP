@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', function () {
     toggleBtn.addEventListener('click', function () {
         if (navbar.style.right === '-10px') {
             navbar.style.right = '-250px';
-            toggleBtn.innerHTML = '⬅';
+            toggleBtn.innerHTML = '<';
         } else {
             navbar.style.right = '-10px';
-            toggleBtn.innerHTML = '➡';
+            toggleBtn.innerHTML = '>';
         }
     });
 });
