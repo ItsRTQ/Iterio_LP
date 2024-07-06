@@ -475,8 +475,8 @@ footer {
     padding: 10px;
     border-radius: 50%;
     z-index: 1;
-    width: 40px;
-    height: 75px;
+    width: 50px;
+    height: 140px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
     display: flex;
     align-items: center;
