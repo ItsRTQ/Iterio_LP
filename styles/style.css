@@ -628,6 +628,7 @@ section h1 {
 .about_container p {
     font-family: var(--textFont);
     font-weight: lighter;
+    line-height: 3rem;
     text-shadow: 0 1px 20px #ffffff;
 }
 
